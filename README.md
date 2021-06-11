@@ -8,12 +8,12 @@
 | [wave_clus](https://github.com/csn-le/wave_clus) | MATLAB | wavelets + super-paramagnetic clustering |
 | [FAST](https://github.com/Olveczky-Lab/FAST) | F# | super-paramagnetic clustering, long term stabilization | 
 | [spikeinterface](https://github.com/SpikeInterface/spikeinterface) | python |  | 
-| [spykes](https://github.com/KordingLab/spykes) | | |
-| [spykesML](https://github.com/KordingLab/spykesML) | | ML algorithms for spike prediction |
-| [klusta](https://github.com/kwikteam/klusta)  | | automatic spike sorting |
+| [spykes](https://github.com/KordingLab/spykes) | python | |
+| [klusta](https://github.com/kwikteam/klusta)  | python | automatic spike sorting |
 | [nerds](https://github.com/KordingLab/nerds) | MATLAB | blind deconv. |
-| [BinaryPursuitSpikeSorting](https://github.com/pillowlab/BinaryPursuitSpikeSorting) | | | 
-|  [mksort](https://github.com/ripple-neuro/mksort) | | | 
+| [BinaryPursuitSpikeSorting](https://github.com/pillowlab/BinaryPursuitSpikeSorting) | MATLAB |  find synchronous spikes using Binary Pursuit  | 
+|  [mksort](https://github.com/ripple-neuro/mksort) | MATLAB | | 
+| [crabsort](https://githib.com/sg-s/crabsort) | MATLAB | neural nets + active learning | 
 |  [moksm](https://github.com/aecker/moksm) | | Kalman filters + EM| 
 | [bpsort](https://github.com/aecker/bpsort)  |  |  binary pursuit |
 | [LDA-GMM_SpikeSort](https://github.com/mrezak/LDA-GMM_SpikeSort) | | discrminative subspace learning | 
