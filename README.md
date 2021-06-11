@@ -14,9 +14,9 @@
 | [BinaryPursuitSpikeSorting](https://github.com/pillowlab/BinaryPursuitSpikeSorting) | MATLAB |  find synchronous spikes using Binary Pursuit  | 
 |  [mksort](https://github.com/ripple-neuro/mksort) | MATLAB | | 
 | [crabsort](https://githib.com/sg-s/crabsort) | MATLAB | neural nets + active learning | 
-|  [moksm](https://github.com/aecker/moksm) | | Kalman filters + EM| 
-| [bpsort](https://github.com/aecker/bpsort)  |  |  binary pursuit |
-| [LDA-GMM_SpikeSort](https://github.com/mrezak/LDA-GMM_SpikeSort) | | discrminative subspace learning | 
+|  [moksm](https://github.com/aecker/moksm) | MATLAB | Kalman filters + EM, abandoned| 
+| [bpsort](https://github.com/aecker/bpsort)  | MATLAB  |  binary pursuit, abandoned  |
+| [LDA-GMM_SpikeSort](https://github.com/mrezak/LDA-GMM_SpikeSort) | MATLAB | discrminative subspace learning | 
 
 
 
